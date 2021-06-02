@@ -7,6 +7,6 @@ Here will contain multiple projects I have done throughput learning processes an
 The following listed project name in a dictionary format like(Where is the project from: name of project inside repository):
 - Udacity: [Udacity-R-Github-Proj](https://github.com/zqw1103/Udacity-R-Github-Proj)
 - Udacity: [Udacity_R](https://github.com/zqw1103/Udacity_R)
-- Udacity: Udacity_SQL
+- Udacity: [Udacity_SQL](https://github.com/zqw1103/Udacity_SQL)
 - NYU: NYU_Problem_solving
 - NYU: NYU_NGS
