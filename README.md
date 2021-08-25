@@ -10,3 +10,4 @@ The following listed project name in a dictionary format like(Where is the proje
 - Udacity: [Udacity_SQL](https://github.com/zqw1103/Udacity_SQL)
 - NYU: [NYU_Problem_solving](https://github.com/zqw1103/NYU_Problem_solving)
 - NYU: [NYU_NGS](https://github.com/zqw1103/NYU_NGS)
+- NYU: [NYU_Transcriptomics] ()
