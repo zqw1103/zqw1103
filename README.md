@@ -11,3 +11,4 @@ The following listed project name in a dictionary format like(Where is the proje
 - NYU: [NYU_Problem_solving](https://github.com/zqw1103/NYU_Problem_solving)
 - NYU: [NYU_NGS](https://github.com/zqw1103/NYU_NGS)
 - NYU: [NYU_Transcriptomics](https://github.com/zqw1103/NYU_Transcriptomics)
+- [scrna_practice](https://github.com/zqw1103/scrna_practice)
