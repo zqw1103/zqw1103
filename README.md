@@ -2,6 +2,7 @@
 - 👀 I’m interested in quantitatively drawing insights from big datasets using appropriate programming toolkits
 - 🌱 I’m currently learning bioinformatics and programming languages typically employed in Data Science (Python, R, SQL, Bash)
 - Technical skills: ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=green") ![Bash](https://img.shields.io/badge/bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=orange") ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=blue)
+- ML: ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=lightgrey)
 - 📫 How to reach me: zqw1103@gmail.com
 
 Here will contain multiple projects I have done throughput learning processes and projects will be in seperate repositories.
