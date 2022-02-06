@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Bioinformatics and Data Science
 - Technical skills: ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=green") ![Bash](https://img.shields.io/badge/bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=orange") ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=blue)
 - ML: ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=lightgrey) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=red) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![matplotlib]("https://img.shields.io/badge/matplotlib%20-%2317527b.svg?&style=for-the-badge&logo=matplotlib&logoColor=red")
-- 📫 How to reach me: zendo06293@gmail.com
+- 📫 How to reach me: zendo0629@gmail.com
 
 Here will contain multiple projects I have done throughput learning processes and projects will be in seperate repositories.
 The following listed project name in a dictionary format like(Where is the project from: name of project inside repository):
