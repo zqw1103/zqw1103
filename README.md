@@ -6,7 +6,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![caret](https://img.shields.io/badge/caret-%2307405e.svg?style=for-the-badge&logo=caret&logoColor=blue)
-![dplyr](https://img.shields.io/badge/dplyr-%23121011.svg?style=for-the-badge&logo=caret&logoColor=green)
+![dplyr](https://img.shields.io/badge/dplyr-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=purple")
 ![tidyr](https://img.shields.io/badge/tidyr-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=blue")
 - 📫 How to reach me: zendo0629@gmail.com
 
