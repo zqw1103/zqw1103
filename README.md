@@ -7,6 +7,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![caret](https://img.shields.io/badge/caret-%2307405e.svg?style=for-the-badge&logo=caret&logoColor=blue)
 ![dplyr](https://img.shields.io/badge/dplyr-%23121011.svg?style=for-the-badge&logo=caret&logoColor=green)
+![tidyr](https://img.shields.io/badge/tidyr-%23121011.svg?style=for-the-badge&logo=caret&logoColor=orange)
 - 📫 How to reach me: zendo0629@gmail.com
 
 Here will contain multiple projects I have done throughput learning processes and projects will be in seperate repositories.
