@@ -22,5 +22,6 @@ The following listed project name in a dictionary format like(Where is the proje
 - NEU: [DA5020_Collect/Store/Retrieve_Data](https://github.com/zqw1103/DA5020)
 - NEU: [INSH5301_Computational_Statistics](https://github.com/zqw1103/INSH5301)
 - NEU: [Bioinfo methods 1](https://github.com/zqw1103/Bioinfo-methods-1)
+- NEU: [Stats for Bioinfo](https://github.com/zqw1103/Stats-for-Bioinfo)
 - [Chronic Kidney Disease Prediction ML Project](https://github.com/zqw1103/Chronic-Kidney-Disease-Prediction-ML-project)
 - [TCGA BRAC Subtype Classification ML Project](https://github.com/zqw1103/TCGA-BRAC-ML-proj)
